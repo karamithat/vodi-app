@@ -22,12 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Vodi is a user-friendly platform that lists popular, top-rated, and trending movies and series on a weekly and daily basis. With detailed pages for each film and series, we provide viewers with the opportunity to discover similar themed productions, ensuring a rich and engaging experience. This allows users to easily access the latest and most beloved content, as well as discover new productions based on their interests. Vodi's mission is to bring together film and series enthusiasts, providing them with a seamless, easy-to-use experience enriched with top-notch recommendations.<br/><br/> All rights reserved © 2023 Vodi.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
