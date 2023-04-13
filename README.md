@@ -11,6 +11,7 @@ Vodi is a user-friendly platform designed to help film and series enthusiasts di
 - SCSS
 - react-icons
 - React Select
+- TMDB Api ("https://api.themoviedb.org/3")
 
 ## Installation
 ### `npm install`
